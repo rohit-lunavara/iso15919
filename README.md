@@ -20,6 +20,4 @@ An ISO 15919 transliteration of all Hindi words distributed with [GNU
 Aspell](http://aspell.net/) is available in HTML (865K) and plain text
 (459K).
 
-/div
-
 Attempting to create a simplified transliteration [link](https://en.wikipedia.org/wiki/Wikipedia:Indic_transliteration#Simplified_transliteration).
