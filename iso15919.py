@@ -85,168 +85,172 @@ CONSONANT4_END     = u'\u097f'
 DEVANAGARI_END     = u'\u097f'
 
 iso15919 = u'''\
-\u0901	m\u0310
-\u0902	\u1e41
-\u0903	\u1e25
-\u0904	
-\u0905	a
-\u0906	\u0101
-\u0907	i
-\u0908	\u012b
-\u0909	u
-\u090a	\u016b
-\u090b	\u1e5b
-\u090c	\u1e37
-\u090d	\u00ea
-\u090e	e
-\u090f	\u0113
-\u0910	ai
-\u0911	\u00f4
-\u0912	o
-\u0913	\u014d
-\u0914	au
-\u0915	ka
-\u0916	kha
-\u0917	ga
-\u0918	gha
-\u0919	\u1e45a
-\u091a	ca
-\u091b	cha
-\u091c	ja
-\u091d	jha
-\u091e	\xf1a
-\u091f	\u1e6da
-\u0920	\u1e6dha
-\u0921	\u1e0da
-\u0922	\u1e0dha
-\u0923	\u1e47a
-\u0924	ta
-\u0925	tha
-\u0926	da
-\u0927	dha
-\u0928	na
-\u0929	n\u0331a
-\u092a	pa
-\u092b	pha
-\u092c	ba
-\u092d	bha
-\u092e	ma
-\u092f	ya
-\u0930	ra
-\u0931	r\u0331a
-\u0932	la
-\u0933	\u1e37a
-\u0934	l\u0331a
-\u0935	va
-\u0936	\u015ba
-\u0937	\u1e63a
-\u0938	sa
-\u0939	ha
-\u093c	
-\u093d	'
-\u093e	\u0101
-\u093f	i
-\u0940	\u012b
-\u0941	u
-\u0942	\u016b
-\u0943	\u1e5b
-\u0944	\u1e5d
-\u0945	\u00ea
-\u0946	e
-\u0947	\u0113
-\u0948	ai
-\u0949	\u00f4
-\u094a	o
-\u094b	\u014d
-\u094c	au
-\u094d	
-\u0950	o\u1e43
-\u0951	
-\u0952	
-\u0953	
-\u0954	
-\u0958	qa
-\u0959	k\u0331h\u0331a
-\u095a	\u0121
-\u095b	za
-\u095c	\u1e5ba
-\u095d	\u1e5bha
-\u095e	fa
-\u095f	\u1e8fa
-\u0960	\u1e5d
-\u0961	\u1e39
-\u0962	\u1e37
-\u0963	\u1e39
-\u0964	.
-\u0965	..
-\u0966	0
-\u0967	1
-\u0968	2
-\u0969	3
-\u096a	4
-\u096b	5
-\u096c	6
-\u096d	7
-\u096e	8
-\u096f	9
-\u0970	\u2026
-\u0971	
-\u0972	
-\u097b	
-\u097c	
-\u097d	
-\u097e	
-\u097f	'''
+\u0901\tm
+\u0902\tm
+\u0903\th
+\u0904\ta
+\u0905\ta
+\u0906\ta
+\u0907\ti
+\u0908\ti
+\u0909\tu
+\u090a\tu
+\u090b\tri
+\u090c\tli
+\u090d\te
+\u090e\te
+\u090f\te
+\u0910\tai
+\u0911\to
+\u0912\to
+\u0913\to
+\u0914\tau
+\u0915\tk
+\u0916\tkh
+\u0917\tg
+\u0918\tgh
+\u0919\tn
+\u091a\tch
+\u091b\tchh
+\u091c\tj
+\u091d\tjh
+\u091e\tn
+\u091f\tt
+\u0920\tth
+\u0921\td
+\u0922\tdha
+\u0923\tn
+\u0924\tt
+\u0925\tth
+\u0926\td
+\u0927\tdh
+\u0928\tn
+\u0929\tn
+\u092a\tp
+\u092b\tph
+\u092c\tb
+\u092d\tbh
+\u092e\tm
+\u092f\ty
+\u0930\tr
+\u0931\tr
+\u0932\tl
+\u0933\tl
+\u0934\tl
+\u0935\tv
+\u0936\tsh
+\u0937\tsh
+\u0938\ts
+\u0939\th
+\u093c\t
+\u093d\t'
+\u093e\ta
+\u093f\ti
+\u0940\ti
+\u0941\tu
+\u0942\tu
+\u0943\tri
+\u0944\tri
+\u0945\te
+\u0946\te
+\u0947\te
+\u0948\tai
+\u0949\to
+\u094a\to
+\u094b\to
+\u094c\tau
+\u094d\t
+\u0950\tom
+\u0951\t
+\u0952\t
+\u0953\t
+\u0954\t
+\u0958\tq
+\u0959\tkh
+\u095a\tg
+\u095b\tz
+\u095c\tr
+\u095d\trh
+\u095e\tf
+\u095f\ty
+\u0960\tri
+\u0961\tli
+\u0962\tli
+\u0963\tli
+\u0964\t.
+\u0965\t..
+\u0966\t0
+\u0967\t1
+\u0968\t2
+\u0969\t3
+\u096a\t4
+\u096b\t5
+\u096c\t6
+\u096d\t7
+\u096e\t8
+\u096f\t9
+\u0970\t...
+\u0971\t
+\u0972\t
+\u097b\t
+\u097c\t
+\u097d\t
+\u097e\t
+\u097f\t'''
 
 # These are special transliterations for consonant triples which have
 # a virama in the centre, as well as for some consonant-nukta pairs
 # which are not equivalent to a single Unicode character.
 clusters = u'''\
-\u0939\u093c	h\u0324a
-\u0938\u093c	s\u0324a
-\u0924\u093c	t\u0324a
-\u0915\u094d\u0937	k\u1e63a
-\u091c\u094d\u091e	j\xf1a
-\u0924\u094d\u0930	tra
-\u0936\u094d\u0930	\u015bra'''
+\u0939\u093c\tha
+\u0938\u093c\tsa
+\u0924\u093c\tta
+\u0915\u094d\u0937\tksha
+\u091c\u094d\u091e\tjnya
+\u0924\u094d\u0930\ttra
+\u0936\u094d\u0930\tshra'''
 
 # These are combinations of consonant and nukta which are equivalent
 # to a single Unicode character.
 nukta_consonants = u'''\
-\u0929	\u0928\u093c
-\u0931	\u0930\u093c
-\u0934	\u0933\u093c
-\u0958	\u0915\u093c
-\u0959	\u0916\u093c
-\u095a	\u0917\u093c
-\u095b	\u091c\u093c
-\u095c	\u0921\u093c
-\u095d	\u0922\u093c
-\u095e	\u092b\u093c
-\u095f	\u092f\u093c'''
+\u0929\t\u0928\u093c
+\u0931\t\u0930\u093c
+\u0934\t\u0933\u093c
+\u0958\t\u0915\u093c
+\u0959\t\u0916\u093c
+\u095a\t\u0917\u093c
+\u095b\t\u091c\u093c
+\u095c\t\u0921\u093c
+\u095d\t\u0922\u093c
+\u095e\t\u092b\u093c
+\u095f\t\u092f\u093c'''
 
 # This table specifies the transliteration of anusvara where followed
 # by a consonant.
 anusvara_consonants = u'''\
-n	\u0915 \u0915 \u0917 \u0918 \u0919 \u0924 \u0925 \u0926 \u0927 \u0928
-\u00f1	\u091a \u091b \u091c \u091d \u091e
-\u1e47	\u091f \u0920 \u0921 \u0922 \u0923
-m	\u092a \u092b \u092c \u092d \u092e'''
+n\t\u0915 \u0916 \u0917 \u0918 \u0919 \u0924 \u0925 \u0926 \u0927 \u0928
+nya\t\u091a \u091b \u091c \u091d \u091e
+n\t\u091f \u0920 \u0921 \u0922 \u0923
+m\t\u092a \u092b \u092c \u092d \u092e'''
 
 iso15919 = [row.split('\t') for row in iso15919.split('\n')]
 iso15919, _iso15919 = {}, iso15919
 for char, trans in _iso15919:
     if trans:
         iso15919[char] = trans
+
 clusters = dict(row.split('\t') for row in clusters.split('\n'))
+
 clusterables = dict.fromkeys(cluster[0] for cluster in clusters)
+
 nukta_consonants = dict(row.split('\t') for row in nukta_consonants.split('\n'))
+
 anusvara_consonants, _anusvara_consonants = {}, anusvara_consonants
 for row in _anusvara_consonants.split('\n'):
     char, consonants = row.split('\t')
     for consonant in consonants.split(' '):
         anusvara_consonants[consonant] = char
-        
+
 def transliterate(source):
     '''Transliterate Devanagari to the Latin alphabet (ISO 15919).
 
@@ -260,7 +264,7 @@ def transliterate(source):
     # normalisation: replace consonant + nukta by equivalent
     # consonants
     orig = source
-    for char, combination in nukta_consonants.iteritems():
+    for char, combination in nukta_consonants.items():
         source = source.replace(combination, char)
 
     # transliterate character by character
@@ -348,22 +352,9 @@ def transliterate(source):
                 start, end = i - 3, i + 3
                 if start < 0:
                     start, end = 0, end - start
-                raise TransliterationError, \
-                    'no transliteration for Devanagari %r (%r)' % (char, source[start:end])
+                raise TransliterationError('no transliteration for Devanagari %r (%r)' % (char, source[start:end]))
             result.append(char)
 
         i += 1
 
     return ''.join(result)
-
-if __name__ == '__main__':
-    import sys
-    status = 0
-    for line in sys.stdin:
-        try:
-            sys.stdout.write(
-                transliterate(line.decode('utf-8')).encode('utf-8'))
-        except TransliterationError, e:
-            sys.stderr.write(e.message + '\n')
-            status = 1
-    sys.exit(status)
